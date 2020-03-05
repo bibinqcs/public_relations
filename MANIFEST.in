@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include public_relations *.css
+recursive-include public_relations *.csv
+recursive-include public_relations *.html
+recursive-include public_relations *.ico
+recursive-include public_relations *.js
+recursive-include public_relations *.json
+recursive-include public_relations *.md
+recursive-include public_relations *.png
+recursive-include public_relations *.py
+recursive-include public_relations *.svg
+recursive-include public_relations *.txt
+recursive-exclude public_relations *.pyc
