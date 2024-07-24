@@ -65,9 +65,27 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Fundraising Event Request",
+   "link_to": "Fundraising Event Request",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Fundraising Event Report",
+   "link_to": "Fundraising Event Report",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
   }
  ],
- "modified": "2021-09-12 13:54:44.456335",
+ "modified": "2024-02-28 09:41:16.562490",
  "modified_by": "Administrator",
  "module": "Public Relations",
  "name": "Public Relations",
